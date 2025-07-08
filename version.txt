@@ -1,0 +1,3 @@
+version=1.0.0
+changelog=No updates available yet.
+download=https://github.com/yourusername/yourrepository/releases
