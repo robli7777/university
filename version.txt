@@ -1,2 +1,2 @@
-version=1.0.5
-Added support for Qs Inventory
+version=1.0.6
+
